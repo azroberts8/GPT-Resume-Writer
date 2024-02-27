@@ -1,14 +1,8 @@
-# REST API
+# Chat GPT Resume Writer API
 
-A template of REST API app using Oak framework
-
+The backend for the GPT Resume Writer project. This project features basic tools for generating professional-sounding resume bullet points and Linked-in bios. A live version can be found at [https://api.gpt-resume.azroberts.com]
 
 Start the server with the command:
-
-```
+```sh
 deno run --allow-net main.ts
 ```
-
-This starts the server at http://localhost:8000/
-
-Try go to http://localhost:8000/api/Brachiosaurus or http://localhost:8000/api/
